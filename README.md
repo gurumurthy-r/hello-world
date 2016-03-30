@@ -1,3 +1,3 @@
 # hello-world
 
-This is a tst file to understand GitHub.
+This is a test file to understand GitHub.
